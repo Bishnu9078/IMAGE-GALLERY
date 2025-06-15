@@ -22,15 +22,6 @@ An interactive and responsive **Image Gallery Web App** built using HTML, CSS, a
 - CSS3 (Flexbox + Grid + Media Queries + Animations)
 - Vanilla JavaScript (ES6)
 
-## 📸 Screenshots
-
-> *(You can upload your screenshots in the repo and reference them like below)*
-
-![Gallery View](screenshots/gallery.png)
-![Modal View](screenshots/modal.png)
-
-## 🚀 How to Use
-
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/your-username/image-gallery.git
